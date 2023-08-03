@@ -11,6 +11,7 @@
     "prepublishOnly": "npm run build"
   },
   "devDependencies": {
+    "@types/node": "^20.4.6",
     "typescript": "^5.0.0"
   },
   "repository": {
@@ -22,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/e6nlaq/coi.js/issues"
   },
-  "homepage": "https://github.com/e6nlaq/coi.js#readme",
-  "dependencies": {
-    "@types/node": "^20.4.6"
-  }
+  "homepage": "https://github.com/e6nlaq/coi.js#readme"
 }
