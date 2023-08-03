@@ -1,4 +1,4 @@
-const zfill = require('./src/string/zfill.ts').zfill;
+const zfill = require('./src/string/zfill').zfill;
 
 module.exports = (
 	{

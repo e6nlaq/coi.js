@@ -1,5 +1,5 @@
 "use strict";
-const zfill = require('./src/string/zfill.ts').zfill;
+const zfill = require('./dist/src/string/zfill.js').zfill;
 module.exports = ({
     zfill
 });
