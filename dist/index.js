@@ -1,5 +1,6 @@
 "use strict";
-const zfill = require('./src/string/zfill').zfill;
-module.exports = ({
-    zfill
-});
+Object.defineProperty(exports, "__esModule", { value: true });
+const zfill_1 = require("./src/string/zfill");
+module.exports = {
+    zfill: zfill_1.zfill
+};

@@ -1,1 +1,1 @@
-declare const zfill: any;
+export {};

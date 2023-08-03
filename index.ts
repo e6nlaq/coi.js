@@ -1,7 +1,5 @@
-const zfill = require('./src/string/zfill').zfill;
+import { zfill } from './src/string/zfill';
 
-module.exports = (
-	{
-		zfill
-	}
-)
+module.exports = {
+	zfill
+};
