@@ -1,4 +1,3 @@
-const coi = require('./dist/index');
-
-// coi.zfill(3, 1);
-console.log(coi.zfill(3, 3298490328490238));
+var a = [1, 4, 6];
+var ka = 3;
+console.log(typeof ka);
